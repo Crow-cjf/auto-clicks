@@ -3,7 +3,7 @@ import project1_fun as fun
 # 参数
 time=4
 #number=2
-#texts={2:'2387341315'}
+#texts={2:'2387315'}
 
 # 循环点击
 #fun.cycle_click(time,number)
